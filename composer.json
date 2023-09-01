@@ -17,7 +17,7 @@
     ],
     "bin": ["bin/vbot"],
     "require": {
-        "guzzlehttp/guzzle": "^6.2",
+        "guzzlehttp/guzzle": ">=6.0",
         "nesbot/carbon": "^1.21",
         "symfony/console": "3.*",
         "monolog/monolog": "^1.22",
